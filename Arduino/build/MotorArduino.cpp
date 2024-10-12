@@ -1,3 +1,4 @@
+#include "fakeArduino.hpp"
 const uint8_t joystickPin = A2;
 
 // Servo command byte from the datasheet

@@ -2,3 +2,5 @@ __pycache__/
 ROS2/ros2_ws/log/
 ROS2/ros2_ws/build/
 ROS2/ros2_ws/install/
+.DS_Store
+motorMain
